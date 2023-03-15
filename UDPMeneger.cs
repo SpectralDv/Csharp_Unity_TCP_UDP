@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading;
 
 
-public class UDPMeneger2 : MonoBehaviour
+public class UDPMeneger : MonoBehaviour
 {
     public GameObject cube;
     public Vector3 offset;
